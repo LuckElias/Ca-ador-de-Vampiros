@@ -1,0 +1,17 @@
+	<style type="text/css">
+		h1{
+			color: green;
+		}
+		h1:hover{
+			color: red;
+			transition: 0.5s;
+		}
+		p{
+			cursor: pointer;
+			color: purple;
+		}
+		p:hover{
+			color: yellow;
+			transition: 0.5s;
+		}
+	</style>
